@@ -1,7 +1,12 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm a Software Developer student with a strong foundation in software design, development, and testing. I'm passionate about using my skills to create innovative solutions for real-world problems. I'm proficient in Java, C++, and Python, and have experience with data structures, object-oriented design, and project management. My technical skills include proficiency in Windows 10, G Suite, RDBMS, and IBM Cognos Analytics. I'm familiar with Agile, Waterfall, Scrum, Kanban, and Trello, and can effectively plan and execute projects. I'm experienced in using SQL, Python, CSS, and HTML for various development tasks.
+-	Pursuing an Advanced Diploma in Software Development, gaining expertise in web and programming languages (HTML, JavaScript, PHP, Python, Java, C), mobile app development, database management (MySQL, Oracle), and various development tools (IntelliJ, Visual Studio, Android Studio). 
+o	The program also covers key concepts in IoT, Machine Learning, project management, and technical writing.
+-	Acquired 4 months of hands-on experience in Data Analysis, Project Management, and Customer Relationship Management (CRM) during a 14-week intensive IBM Data Analyst Professional Certificate program.
+-	Over 4 years of professional and volunteering experience, which has contributed to my excellent communication skills, team-building abilities, community engagement, and customer relations skills, ultimately contributing to high satisfaction ratings and improved team performance.
+-	Proficient in multiple programming languages and technologies, including C/C++, CSS, HTML, SQL, PHP, Python, Java, and .NET, coupled with proficiency in Microsoft Office, data analysis tools, and software development environments.
+
 
 
 ## 🌐 Socials:
