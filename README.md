@@ -1,11 +1,23 @@
 ### Hi there 👋
 
 # 💫 About Me:
--	Pursuing an Advanced Diploma in Software Development, gaining expertise in web and programming languages (HTML, JavaScript, PHP, Python, Java, C), mobile app development, database management (MySQL, Oracle), and various development tools (IntelliJ, Visual Studio, Android Studio). 
-o	The program also covers key concepts in IoT, Machine Learning, project management, and technical writing.
--	Acquired 4 months of hands-on experience in Data Analysis, Project Management, and Customer Relationship Management (CRM) during a 14-week intensive IBM Data Analyst Professional Certificate program.
--	Over 4 years of professional and volunteering experience, which has contributed to my excellent communication skills, team-building abilities, community engagement, and customer relations skills, ultimately contributing to high satisfaction ratings and improved team performance.
--	Proficient in multiple programming languages and technologies, including C/C++, CSS, HTML, SQL, PHP, Python, Java, and .NET, coupled with proficiency in Microsoft Office, data analysis tools, and software development environments.
+🚀 Software Developer & Data Analyst | Passionate about Enhancing User Experience and Data Insights
+
+With a robust background in software development and data analytics, I leverage my skills in Python, SQL, and various development tools to improve application functionality and user engagement. I currently serve as an Applications Developer at the Hamilton Downtown Mosque, where I have significantly reduced bug reports by 50% and increased app performance by 30% through automated testing and quality assurance practices.
+
+My previous roles include a Data Analyst position at Npower Canada and a Customer Service Representative at SP Data Digital, where I developed a knack for optimizing data processes and enhancing customer satisfaction. My project work includes developing a Python-based Amazon Web Scraper and a Java/Python Sudoku Solver, which have collectively boosted operational efficiencies and user interactions across platforms.
+
+🎓 Education: Software Development - Computer Systems Technology from Mohawk College (GPA: 3.9)
+
+💼 Skills: Python, HTML, CSS, JavaScript, .NET, Git, SQL, Microsoft Excel, IBM Cognos Analytics, Data Analysis, API Data Processing, Power BI, Data Visualization, Project Management
+
+📜 Certifications:
+
+Data Analyst Professional Certificate, Npower Canada
+IBM Data Analyst Certificate, IBM
+🌍 Interests: Data Science, Coding, AI, Cybersecurity, and English Literature
+
+I am continually seeking opportunities to apply my skills in new and challenging environments, aiming to contribute effectively to my team and enhance project outcomes. Let's connect!
 
 
 
