@@ -3,7 +3,7 @@
 # 💫 About Me:
 🚀 Software Developer & Data Analyst | Passionate about Enhancing User Experience and Data Insights
 
-With a robust background in software development and data analytics, I leverage my skills in Python, SQL, and various development tools to improve application functionality and user engagement. I currently serve as an Applications Developer at the Hamilton Downtown Mosque, where I have significantly reduced bug reports by 50% and increased app performance by 30% through automated testing and quality assurance practices.
+With a robust background in software development and data analytics, I leverage my skills in Python, SQL, and various development tools to improve application functionality and user engagement. I currently serve as an Applications Developer at the Hamilton Somali Community, where I have significantly reduced bug reports by 50% and increased app performance by 30% through automated testing and quality assurance practices.
 
 My previous roles include a Data Analyst position at Npower Canada and a Customer Service Representative at SP Data Digital, where I developed a knack for optimizing data processes and enhancing customer satisfaction. My project work includes developing a Python-based Amazon Web Scraper and a Java/Python Sudoku Solver, which have collectively boosted operational efficiencies and user interactions across platforms.
 
