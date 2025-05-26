@@ -1,6 +1,6 @@
 # 👋 Salaam! I'm Abdurahman
 
-🚀 Senior Software Developer @OpenText | AI/ML Enthusiast | Neurodivergent 🧠  
+🚀 Software Developer @OpenText | AI/ML Enthusiast | Neurodivergent 🧠  
 2× Hackathon Champion | STEM Equity Advocate | Mission-Driven Builder  
 
 I blend full-stack engineering with a focus on **ethical AI**, **scalable cloud systems**, and **community-centered innovation**. As a neurodivergent technologist, I bring deep focus, systems fluency, and a passion for building tech that serves real needs.
