@@ -316,7 +316,7 @@ personality:
     - "🌍 From political science to production systems - I see the bigger picture"
 ```
 
-### 🎪 **Current Obsessions:**
+###  **Current Obsessions:**
 - **🤖 Large Language Models** - Training pipeline optimization and responsible deployment
 - **☁️ Cloud-Native Architecture** - Kubernetes orchestration that scales infinitely  
 - **⚡ Real-time Processing** - Kafka streams that never sleep
