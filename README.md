@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**🚀 Senior Software Developer @OpenText | AI/ML Engineer | Neurodivergent Innovator 🧠**
+**🚀 Senior Software Developer @OpenText | AI/ML Enthusiast | Neurodivergent Innovator 🧠**
 
 *Building responsible technology that amplifies human potential*
 
@@ -80,17 +80,17 @@ I'm a **results-driven Software Engineer** with 3+ years of experience architect
 
 ## 🚀 Featured Projects
 
-### 🔐 **SSH Attack Clustering Analysis** | [View Project](https://github.com/poeticinspiired)
+### 🔐 **SSH Attack Clustering Analysis** | [View Project](https://github.com/poeticinspiired/SSH-Traffic-Clustering-Analysis)
 Network security tool using **K-Means clustering** and **Scapy** for SSH traffic analysis
 - Built packet analysis algorithms with feature extraction optimization
 - Implemented anomalous traffic pattern detection with actionable security insights
 
-### 📊 **Infrastructure Alert Intelligence Dashboard** | [View Project](https://github.com/poeticinspiired)  
+### 📊 **Infrastructure Alert Intelligence Dashboard** | [View Project](https://github.com/poeticinspiired/infrastructure-alert-dashboard)  
 Real-time DevOps monitoring platform reducing **Mean Time to Recovery (MTTR)**
 - **Tech Stack:** TypeScript, Flask, React, D3.js, Apache Kafka
 - Predictive deployment risk analysis using graph algorithms and ML
 
-### 🤖 **LLM Training Data Curation Pipeline** | [View Project](https://github.com/poeticinspiired)
+### 🤖 **LLM Training Data Curation Pipeline** | [View Project](https://github.com/poeticinspiired/llm_data_pipeline)
 Scalable data pipeline for large-scale language model training datasets  
 - **Cloud-native architecture:** Python, MongoDB, AWS S3, Prefect orchestration
 - Advanced data quality assessment with deduplication and multi-metric evaluation
@@ -159,7 +159,7 @@ Scalable data pipeline for large-scale language model training datasets
 
 | **Senior Software Engineer** | **ML/AI Engineering** | **Technical Leadership** | **Data Science** |
 |:---:|:---:|:---:|:---:|
-| Scalable system architecture | Production AI deployment | Team mentoring & growth | Advanced analytics |
+| Scalable system architecture | AI/ML transition & growth | Team mentoring & guidance | Advanced analytics |
 
 </div>
 
