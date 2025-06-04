@@ -44,7 +44,7 @@ const Abdurahman = {
 </div>
 
 **🌟 What Makes Me Different:**  
-I don't just write code—I architect solutions that process **10,000+ daily transactions**, save companies **$220K annually**, and empower the next generation of technologists. As a neurodivergent innovator, I bring unique perspectives to complex challenges while building bridges between technology and community impact.
+I don't just write code. I architect solutions that process **10,000+ daily transactions**, save companies **$220K annually**, and empower the next generation of technologists. As a neurodivergent innovator, I bring unique perspectives to complex challenges while building bridges between technology and community impact.
 
 ---
 
