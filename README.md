@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Senior+Software+Developer;AI%2FML+Enthusiast;Neurodivergent+Innovator;2%C3%97+Hackathon+Champion;Building+The+Future" alt="Typing SVG" />
 
-**🚀 Senior Software Developer @OpenText | AI/ML Enthusiast | Neurodivergent Innovator 🧠**
+**🚀 Senior Software Engineer @OpenText | AI/ML Enthusiast | Neurodivergent Innovator 🧠**
 
 *Building responsible technology that amplifies human potential*
 
