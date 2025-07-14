@@ -196,7 +196,7 @@ I don't just write code. I architect solutions that process **80,000+ daily tran
 <div align="center">
 <img src="https://img.shields.io/badge/🏗️_System_Architecture-FF6B6B?style=for-the-badge&logoColor=white">
 <br><br>
-<strong>10,000+</strong><br>Daily Transactions<br><br>
+<strong>80,000+</strong><br>Daily Transactions<br><br>
 <strong>40%</strong><br>API Latency Reduction<br><br>
 <strong>20%</strong><br>Performance Improvement
 </div>
@@ -205,7 +205,7 @@ I don't just write code. I architect solutions that process **80,000+ daily tran
 <div align="center">
 <img src="https://img.shields.io/badge/☁️_Cloud_Migration-4285F4?style=for-the-badge&logoColor=white">
 <br><br>
-<strong>$220K</strong><br>Annual Cost Savings<br><br>
+<strong>$1.5million</strong><br>Annual Cost Savings<br><br>
 <strong>14</strong><br>Legacy Systems Migrated<br><br>
 <strong>98%</strong><br>CI/CD Reliability
 </div>
