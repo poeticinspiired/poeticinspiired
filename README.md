@@ -27,7 +27,7 @@
 
 ```javascript
 const Abdurahman = {
-    role: "Senior Software Developer @OpenText",
+    role: "Senior Software Engineer @OpenText",
     mission: "Building ethical AI that serves humanity",
     superpower: "Neurodivergent pattern recognition",
     impact: {
