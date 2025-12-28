@@ -22,6 +22,7 @@
       <img src="https://img.shields.io/badge/🎯_IMPACT-800K%2B_Daily-FF3E96?style=for-the-badge&labelColor=1a1a2e&color=FF3E96"/>
     </td>
     <td>
+      <img src="https://img.shields.io/badge/💰_SAVED-$1.5M_Annual-00FFC6?style=for-the-badge&labelColor=1a1a2e&color=00FFC6"/>
     </td>
     <td>
       <img src="https://img.shields.io/badge/⚡_OPTIMIZED-40%25_Faster-FFA500?style=for-the-badge&labelColor=1a1a2e&color=FFA500"/>
@@ -44,30 +45,27 @@
 
 <br/>
 
-## 🌌 The Architect
+## 🌌 Hi, Salaam
+
+No special talent—just deep curiosity about how things work and a stubborn desire to build tools that make life **easier, fairer, and more meaningful**.
+
+I'm a **Senior Software Engineer @OpenText** and **AI/ML researcher-in-training**. I build scalable systems spanning full-stack development, machine learning, and accessible technologies. My research explores where **cognitive science meets AI safety**—how do we build machines that understand right from wrong?
 
 ```javascript
-class SoftwareArchitect {
-  constructor() {
-    this.role = "Senior Software Engineer → AI/ML Architect";
-    this.location = "Hamilton, ON 🇨🇦";
-    this.philosophy = "Code is poetry. Systems are symphonies.";
-  }
+const philosophy = {
+  northStar: "Build things that serve real lives, not just metrics",
+  research: ["AI Alignment", "Governance Frameworks", "Interpretability"],
+  belief: "The future of AI needs people who care about wisdom as much as capability"
+};
 
-  getImpact() {
-    return {
-      scale: "800,000+ transactions processed daily",
-      efficiency: "40% API latency reduction",
-      savings: "$1.5M annual cost optimization",
-      legacy: "Mentoring the next generation"
-    };
-  }
-
-  currentMission() {
-    return "Building ethical AI that amplifies human potential";
-  }
-}
+const impact = {
+  scale: "800,000+ transactions/day",
+  optimization: "40% faster APIs, $1.5M saved",
+  community: "Mentoring youth in STEM"
+};
 ```
+
+**Beyond the code:** Poetry • Chess • History • Islam • Decolonial Knowledge • Classical Literature • Math Proofs (just for fun)
 
 <br/>
 
