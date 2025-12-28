@@ -47,43 +47,21 @@
 
 <div align="center">
 
-## 🌙 Hi, Salaam
+<br/>
 
+<!-- Poetic Opening -->
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center">
 
-### The Question
-
-> *How do we build machines that understand right from wrong?*
-
-I'm a **Senior Software Engineer @OpenText** and **AI/ML researcher-in-training** exploring where **cognitive science meets AI safety**. No special talent—just deep curiosity and a stubborn desire to build tools that make life **easier, fairer, and more meaningful**.
-
-I build scalable systems spanning full-stack development, machine learning, and accessible technologies—while wrestling with the ethics of what we're building.
-
-</td>
-<td width="50%" valign="top">
-
-### The Philosophy
-
-```python
-# My North Star
-def build():
-    return serve_real_lives() not just_metrics()
-
-research = [
-    "AI Alignment",
-    "Governance Frameworks", 
-    "Interpretability"
-]
-
-belief = """
-The future of AI needs people who care 
-about wisdom as much as capability
-"""
+```ascii
+     ╭─────────────────────────────────────────────────────────╮
+     │                                                         │
+     │   "How do we build machines that understand            │
+     │              right from wrong?"                         │
+     │                                                         │
+     ╰─────────────────────────────────────────────────────────╯
 ```
-
-**Impact:** 800K+ transactions/day • 40% faster APIs • $1.5M saved
 
 </td>
 </tr>
@@ -91,42 +69,110 @@ about wisdom as much as capability
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&width=800&height=80&lines=No+special+talent%E2%80%94just+deep+curiosity;Building+tools+that+make+life+easier%2C+fairer%2C+more+meaningful;Where+cognitive+science+meets+AI+safety" alt="Philosophy"/>
 
-### Beyond The Code
+<br/>
 
+<!-- Dual Identity Layout -->
 <table>
 <tr>
-<td align="center" width="14%">
-<img src="https://img.icons8.com/fluency/48/quill-pen.png" width="40"/><br/>
-<sub><b>Poetry</b></sub>
+<td width="48%" align="right" valign="top">
+
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="80"/>
+
+### The Engineer
+
+**Senior Software Engineer**  
+@OpenText
+
+*Building scalable systems*  
+Full-stack • ML • Accessibility
+
+**800K+** transactions/day  
+**40%** faster APIs  
+**$1.5M** saved annually
+
 </td>
-<td align="center" width="14%">
-<img src="https://img.icons8.com/fluency/48/chess.png" width="40"/><br/>
-<sub><b>Chess</b></sub>
+
+<td width="4%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30">
 </td>
-<td align="center" width="14%">
-<img src="https://img.icons8.com/fluency/48/books.png" width="40"/><br/>
-<sub><b>History</b></sub>
-</td>
-<td align="center" width="14%">
-<img src="https://img.icons8.com/fluency/48/mosque.png" width="40"/><br/>
-<sub><b>Islam</b></sub>
-</td>
-<td align="center" width="14%">
-<img src="https://img.icons8.com/fluency/48/globe.png" width="40"/><br/>
-<sub><b>Decolonial<br/>Knowledge</b></sub>
-</td>
-<td align="center" width="14%">
-<img src="https://img.icons8.com/fluency/48/literature.png" width="40"/><br/>
-<sub><b>Classical<br/>Literature</b></sub>
-</td>
-<td align="center" width="14%">
-<img src="https://img.icons8.com/fluency/48/math.png" width="40"/><br/>
-<sub><b>Math Proofs<br/>(for fun)</b></sub>
+
+<td width="48%" align="left" valign="top">
+
+<img src="https://img.icons8.com/fluency/96/brain.png" width="80"/>
+
+### The Researcher
+
+**AI/ML Researcher**  
+*in training*
+
+*Exploring ethical boundaries*  
+AI Alignment • Governance  
+Interpretability • Safety
+
+Care about **wisdom**  
+as much as **capability**
+
 </td>
 </tr>
 </table>
+
+<br/>
+
+<!-- Philosophy in Code -->
+```python
+# North Star
+while building:
+    if serves_metrics_only:
+        continue
+    elif serves_real_lives:
+        ship()  # This is the way
+```
+
+<br/>
+
+<!-- Interest Constellation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<sub>*Beyond the terminal*</sub>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/quill-pen.png" width="35"/><br/>
+<sub>Poetry</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/mosque.png" width="35"/><br/>
+<sub>Islam</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/chess.png" width="35"/><br/>
+<sub>Chess</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/math.png" width="35"/><br/>
+<sub>Math Proofs</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/globe.png" width="35"/><br/>
+<sub>Decolonial<br/>Knowledge</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/literature.png" width="35"/><br/>
+<sub>Classical<br/>Literature</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/books.png" width="35"/><br/>
+<sub>History</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<sub>*"The future of AI needs people who care about wisdom as much as capability"*</sub>
 
 </div>
 
