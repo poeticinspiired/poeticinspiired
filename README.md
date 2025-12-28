@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Section with Gradient Overlay -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,20,24,27&height=280&section=header&text=Abdurahman%20Osman&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Where%20Engineering%20Excellence%20Meets%20Ethical%20AI&descSize=20&descAlignY=55&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,20,24,27&height=280&section=header&text=Abdurahman%20Seyidnoor&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Where%20Engineering%20Excellence%20Meets%20Ethical%20AI&descSize=20&descAlignY=55&descAlign=50"/>
 
 <br/>
 
