@@ -1,178 +1,215 @@
+<!-- 
+███████╗██╗     ███████╗ ██████╗  █████╗ ███╗   ██╗ ██████╗███████╗
+██╔════╝██║     ██╔════╝██╔════╝ ██╔══██╗████╗  ██║██╔════╝██╔════╝
+█████╗  ██║     █████╗  ██║  ███╗███████║██╔██╗ ██║██║     █████╗  
+██╔══╝  ██║     ██╔══╝  ██║   ██║██╔══██║██║╚██╗██║██║     ██╔══╝  
+███████╗███████╗███████╗╚██████╔╝██║  ██║██║ ╚████║╚██████╗███████╗
+╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚══════╝
+-->
+
 <div align="center">
 
-# ✨ Abdurahman
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdurahman&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;AI%2FML+Architect;System+Designer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E2%9A%A1+Senior+Software+Engineer+%40OpenText;%F0%9F%A7%A0+Building+Ethical+AI+%7C+ML+Infrastructure;%F0%9F%8C%8A+800K%2B+transactions%2Fday+%E2%80%A2+%241.5M+saved" alt="Typing SVG" />
 
-```
-┌─────────────────────────────────────────────────┐
-│                                                 │
-│  800K+ transactions/day  •  $1.5M saved        │
-│  40% faster APIs  •  Building ethical AI       │
-│                                                 │
-└─────────────────────────────────────────────────┘
-```
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurahman24/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/poeticinspired/)
+<!-- Glassmorphism Effect Cards -->
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/🎯_IMPACT-800K%2B_Daily-FF3E96?style=for-the-badge&labelColor=1a1a2e&color=FF3E96"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/💰_SAVED-$1.5M_Annual-00FFC6?style=for-the-badge&labelColor=1a1a2e&color=00FFC6"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/⚡_OPTIMIZED-40%25_Faster-FFA500?style=for-the-badge&labelColor=1a1a2e&color=FFA500"/>
+    </td>
+  </tr>
+</table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=000000)](https://www.linkedin.com/in/abdurahman24/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116&color=000000)](https://leetcode.com/u/poeticinspired/)
+[![Portfolio](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=000000)](mailto:your.email@example.com)
 
 </div>
 
-## 🎯 About
+<br/>
 
-Senior Software Engineer at **OpenText** specializing in scalable distributed systems and ML infrastructure. Architecting solutions that handle millions of transactions while building the next generation of ethical AI systems.
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+## 🌌 The Architect
+
+```javascript
+class SoftwareArchitect {
+  constructor() {
+    this.role = "Senior Software Engineer → AI/ML Architect";
+    this.location = "Hamilton, ON 🇨🇦";
+    this.philosophy = "Code is poetry. Systems are symphonies.";
+  }
+
+  getImpact() {
+    return {
+      scale: "800,000+ transactions processed daily",
+      efficiency: "40% API latency reduction",
+      savings: "$1.5M annual cost optimization",
+      legacy: "Mentoring the next generation"
+    };
+  }
+
+  currentMission() {
+    return "Building ethical AI that amplifies human potential";
+  }
+}
+```
+
+<br/>
+
+<!-- Tech Stack with Gradient -->
+<div align="center">
+
+## ⚡ Tech Arsenal
+
+<img src="https://skillicons.dev/icons?i=python,java,typescript,rust,cpp,js,react,nextjs,spring,django,pytorch,tensorflow,aws,gcp,docker,kubernetes,kafka,mongodb,postgres,redis&perline=10&theme=dark" />
+
+<br/><br/>
+
+<!-- Custom Tech Highlights -->
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+<br><strong>Python</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+<br><strong>React</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
+<br><strong>AWS</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50" />
+<br><strong>Kubernetes</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
+<br><strong>Docker</strong>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+</div>
+
+<!-- Project Cards with Custom Styling -->
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 [SSH Attack Clustering Analysis](https://github.com/poeticinspiired/SSH-Traffic-Clustering-Analysis)
+
+<img src="https://img.shields.io/badge/ML-Powered-8B5CF6?style=flat-square&logo=scipy&logoColor=white"/> <img src="https://img.shields.io/badge/Security-First-FF3E96?style=flat-square&logo=guardduty&logoColor=white"/>
+
+Machine learning system that identifies malicious SSH traffic patterns using K-Means clustering and advanced packet analysis.
+
+**Stack:** `Python` `Scapy` `scikit-learn` `Feature Engineering`
+
+**Impact:** Real-time threat detection through intelligent anomaly recognition
+
+<br/>
+
+```python
+# Detect patterns humans can't see
+def secure_the_network():
+    return ml_powered_security()
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [Infrastructure Alert Dashboard](https://github.com/poeticinspiired/infrastructure-alert-dashboard)
+
+<img src="https://img.shields.io/badge/Real--Time-Analytics-00FFC6?style=flat-square&logo=apache-kafka&logoColor=white"/> <img src="https://img.shields.io/badge/Graph-Theory-FFA500?style=flat-square&logo=neo4j&logoColor=white"/>
+
+Predictive monitoring system that slashes MTTR through intelligent alert correlation and graph-based relationship mapping.
+
+**Stack:** `TypeScript` `React` `Kafka` `Graph Algorithms`
+
+**Impact:** Reduced incident response time, improved system reliability
+
+<br/>
 
 ```typescript
-const expertise = {
-  backend: ["Scalable APIs", "Distributed Systems", "Cloud Architecture"],
-  ai_ml: ["LLM Pipelines", "Real-time ML", "Model Monitoring"],
-  impact: ["800K+ daily transactions", "$1.5M cost optimization", "40% latency reduction"]
-};
+// Connect the dots before chaos strikes
+const predict = async () => await intelligentMonitoring();
 ```
 
-<br/>
-
-## 🔧 Stack
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### Backend
-<div align="center">  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-### Frontend
-<div align="center">  
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-### AI/ML & Cloud
-<div align="center">  
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" />
-</div>
-
 </td>
 </tr>
-</table>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [LLM Training Data Pipeline](https://github.com/poeticinspiired/llm_data_pipeline)
+
+<img src="https://img.shields.io/badge/Cloud-Native-0A66C2?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Quality-Driven-8B5CF6?style=flat-square&logo=databricks&logoColor=white"/>
+
+Enterprise-grade data curation pipeline for large language models with automated quality scoring and intelligent deduplication.
+
+**Stack:** `Python` `MongoDB` `AWS` `Prefect` `ETL`
+
+**Impact:** Reproducible dataset management at scale
 
 <br/>
 
-<div align="center">
-
-## 💎 Featured Work
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔐 SSH Attack Clustering
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/poeticinspiired/SSH-Traffic-Clustering-Analysis)
-
-ML-powered network security using K-Means clustering and packet analysis for anomaly detection.
-
-**Tech:** `Python` `Scapy` `scikit-learn`
+```python
+# Quality data = Quality AI
+def curate_intelligence():
+    return ethical_pipeline()
+```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📊 Infrastructure Monitoring
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/poeticinspiired/infrastructure-alert-dashboard)
+### ⚡ [More Coming Soon...]
 
-Real-time monitoring dashboard with predictive analytics to reduce incident response time.
+<img src="https://img.shields.io/badge/Status-Building-FF3E96?style=flat-square&logo=rocket&logoColor=white"/> <img src="https://img.shields.io/badge/Focus-MLOps-00FFC6?style=flat-square&logo=kubernetes&logoColor=white"/>
 
-**Tech:** `TypeScript` `React` `Kafka` `Graph Algorithms`
+Next-generation ML monitoring tools and distributed systems that push the boundaries of what's possible.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+**Vision:** `Scalable` `Ethical` `Production-Ready`
 
-### 🤖 LLM Data Pipeline
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/poeticinspiired/llm_data_pipeline)
-
-Cloud-native pipeline for LLM training data with quality scoring and deduplication at scale.
-
-**Tech:** `Python` `MongoDB` `AWS` `Prefect`
-
-</td>
-<td width="50%">
-
-### 🎯 Coming Soon
-[![Status](https://img.shields.io/badge/In_Development-FF6B6B?style=for-the-badge&logoColor=white)](#)
-
-Building next-generation ML monitoring tools for production systems.
-
-**Tech:** `Go` `Kubernetes` `Prometheus`
-
-</td>
-</tr>
-</table>
+**Focus:** Building infrastructure that serves humanity
 
 <br/>
 
-<div align="center">
-
-## 📊 Analytics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=poeticinspiired&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=poeticinspiired&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=poeticinspiired&bg_color=0D1117&color=A78BFA&line=A78BFA&point=C9D1D9&area=true&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 📚 Publications
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🧠 AI Ethics
-**[Beyond Constraints: Embedding Moral Cognition in AI](https://traversingtradition.com/2025/12/17/ai-foundations-moral-cognition-and-universal-principles/)**
-
-*Exploring moral reasoning frameworks in AI systems*
-
-</td>
-<td width="33%" align="center">
-
-### 💻 AI Development
-**[The Reality Behind AI Coding](https://www.academia.edu/129988573/The_Reality_Behind_AI_Coding_When_Efficiency_Promises_Meet_Debugging_Hell)**
-
-*When efficiency promises meet debugging challenges*
-
-</td>
-<td width="33%" align="center">
-
-### 🎓 STEM Education
-**[Bridging the Gap: STEM Education in Canada](https://www.academia.edu/129860536/Addressing_Systemic_Barriers_to_STEM_Education_for_Muslim_Youth_and_Underrepresented_Groups_in_Canada)**
-
-*Addressing barriers for underrepresented groups*
+```go
+// The future is being written...
+func innovate() { buildTheFuture() }
+```
 
 </td>
 </tr>
@@ -182,38 +219,153 @@ Building next-generation ML monitoring tools for production systems.
 
 <br/>
 
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
 <div align="center">
 
-## 🎯 Current Focus
+## 📚 Publications & Thought Leadership
 
-**Transitioning to AI/ML Engineering** • Building scalable ML infrastructure • Ethical AI systems
+<!-- Publication Cards -->
+<table>
+<tr>
+<td width="33%" align="center">
+
+<img height="100" src="https://img.icons8.com/fluency/96/brain.png" alt="AI Ethics"/>
+
+### [Beyond Constraints: Embedding Moral Cognition in AI](https://traversingtradition.com/2025/12/17/ai-foundations-moral-cognition-and-universal-principles/)
+
+<img src="https://img.shields.io/badge/AI_Ethics-Philosophy-8B5CF6?style=flat-square"/>
+
+*Exploring how moral reasoning can be integrated into artificial intelligence systems*
+
+</td>
+<td width="33%" align="center">
+
+<img height="100" src="https://img.icons8.com/fluency/96/code.png" alt="AI Coding"/>
+
+### [The Reality Behind AI Coding](https://www.academia.edu/129988573/The_Reality_Behind_AI_Coding_When_Efficiency_Promises_Meet_Debugging_Hell)
+
+<img src="https://img.shields.io/badge/Development-Reality_Check-FF3E96?style=flat-square"/>
+
+*When efficiency promises meet the debugging challenges of AI-assisted development*
+
+</td>
+<td width="33%" align="center">
+
+<img height="100" src="https://img.icons8.com/fluency/96/microscope.png" alt="STEM Education"/>
+
+### [Bridging the Gap: STEM Education in Canada](https://www.academia.edu/129860536/Addressing_Systemic_Barriers_to_STEM_Education_for_Muslim_Youth_and_Underrepresented_Groups_in_Canada)
+
+<img src="https://img.shields.io/badge/Education-Social_Impact-00FFC6?style=flat-square"/>
+
+*Addressing systemic barriers for underrepresented groups in STEM*
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│  📫 Open to AI/ML opportunities & collaborations        │
-│                                                          │
-│  🚀 Interested in: Distributed Systems • LLMs • MLOps  │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+## 📊 GitHub Analytics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=poeticinspiired&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=FF3E96&text_color=FFFFFF&ring_color=00FFC6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poeticinspiired&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=poeticinspiired&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=FF3E96&currStreakLabel=00FFC6&dates=FFFFFF"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=poeticinspiired&custom_title=Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=8B5CF6&point=FF3E96&area=true&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+<div align="center">
+
+## 🎯 Current Mission
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="60"/>
+<br/><br/>
+<strong>AI/ML Engineering</strong>
+<br/><br/>
+<sub>Transitioning to ethical AI systems at scale</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/cloud.png" width="60"/>
+<br/><br/>
+<strong>Scalable Infrastructure</strong>
+<br/><br/>
+<sub>Building systems that serve millions</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/graph.png" width="60"/>
+<br/><br/>
+<strong>ML Monitoring</strong>
+<br/><br/>
+<sub>Production-ready observability tools</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/leadership.png" width="60"/>
+<br/><br/>
+<strong>Mentorship</strong>
+<br/><br/>
+<sub>Growing the next generation</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+```ascii
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║  💫 Open to AI/ML Engineering opportunities                     ║
+║                                                                  ║
+║  🚀 Let's build systems that matter                             ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurahman24/)
+<!-- Social Links with Style -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurahman24/)
+[![Email](https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Code_Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/poeticinspired/)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=poeticinspiired&color=blueviolet&style=flat-square&label=Profile+Views" />
+**"Building bridges between code and consciousness"**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
 
-**Building systems that scale. Designing AI that serves.**
+![Profile Views](https://komarev.com/ghpvc/?username=poeticinspiired&label=Visitors&color=8B5CF6&style=flat-square)
 
 </div>
