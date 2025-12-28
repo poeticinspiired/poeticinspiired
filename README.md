@@ -22,7 +22,6 @@
       <img src="https://img.shields.io/badge/🎯_IMPACT-800K%2B_Daily-FF3E96?style=for-the-badge&labelColor=1a1a2e&color=FF3E96"/>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/💰_SAVED-$1.5M_Annual-00FFC6?style=for-the-badge&labelColor=1a1a2e&color=00FFC6"/>
     </td>
     <td>
       <img src="https://img.shields.io/badge/⚡_OPTIMIZED-40%25_Faster-FFA500?style=for-the-badge&labelColor=1a1a2e&color=FFA500"/>
