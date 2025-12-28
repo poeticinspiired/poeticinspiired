@@ -45,27 +45,90 @@
 
 <br/>
 
-## 🌌 Hi, Salaam
+<div align="center">
 
-No special talent—just deep curiosity about how things work and a stubborn desire to build tools that make life **easier, fairer, and more meaningful**.
+## 🌙 Hi, Salaam
 
-I'm a **Senior Software Engineer @OpenText** and **AI/ML researcher-in-training**. I build scalable systems spanning full-stack development, machine learning, and accessible technologies. My research explores where **cognitive science meets AI safety**—how do we build machines that understand right from wrong?
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```javascript
-const philosophy = {
-  northStar: "Build things that serve real lives, not just metrics",
-  research: ["AI Alignment", "Governance Frameworks", "Interpretability"],
-  belief: "The future of AI needs people who care about wisdom as much as capability"
-};
+### The Question
 
-const impact = {
-  scale: "800,000+ transactions/day",
-  optimization: "40% faster APIs, $1.5M saved",
-  community: "Mentoring youth in STEM"
-};
+> *How do we build machines that understand right from wrong?*
+
+I'm a **Senior Software Engineer @OpenText** and **AI/ML researcher-in-training** exploring where **cognitive science meets AI safety**. No special talent—just deep curiosity and a stubborn desire to build tools that make life **easier, fairer, and more meaningful**.
+
+I build scalable systems spanning full-stack development, machine learning, and accessible technologies—while wrestling with the ethics of what we're building.
+
+</td>
+<td width="50%" valign="top">
+
+### The Philosophy
+
+```python
+# My North Star
+def build():
+    return serve_real_lives() not just_metrics()
+
+research = [
+    "AI Alignment",
+    "Governance Frameworks", 
+    "Interpretability"
+]
+
+belief = """
+The future of AI needs people who care 
+about wisdom as much as capability
+"""
 ```
 
-**Beyond the code:** Poetry • Chess • History • Islam • Decolonial Knowledge • Classical Literature • Math Proofs (just for fun)
+**Impact:** 800K+ transactions/day • 40% faster APIs • $1.5M saved
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+### Beyond The Code
+
+<table>
+<tr>
+<td align="center" width="14%">
+<img src="https://img.icons8.com/fluency/48/quill-pen.png" width="40"/><br/>
+<sub><b>Poetry</b></sub>
+</td>
+<td align="center" width="14%">
+<img src="https://img.icons8.com/fluency/48/chess.png" width="40"/><br/>
+<sub><b>Chess</b></sub>
+</td>
+<td align="center" width="14%">
+<img src="https://img.icons8.com/fluency/48/books.png" width="40"/><br/>
+<sub><b>History</b></sub>
+</td>
+<td align="center" width="14%">
+<img src="https://img.icons8.com/fluency/48/mosque.png" width="40"/><br/>
+<sub><b>Islam</b></sub>
+</td>
+<td align="center" width="14%">
+<img src="https://img.icons8.com/fluency/48/globe.png" width="40"/><br/>
+<sub><b>Decolonial<br/>Knowledge</b></sub>
+</td>
+<td align="center" width="14%">
+<img src="https://img.icons8.com/fluency/48/literature.png" width="40"/><br/>
+<sub><b>Classical<br/>Literature</b></sub>
+</td>
+<td align="center" width="14%">
+<img src="https://img.icons8.com/fluency/48/math.png" width="40"/><br/>
+<sub><b>Math Proofs<br/>(for fun)</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
