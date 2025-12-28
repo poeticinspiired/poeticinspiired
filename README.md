@@ -147,6 +147,43 @@ Building next-generation ML monitoring tools for production systems.
 
 <div align="center">
 
+## 📚 Publications
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🧠 AI Ethics
+**[Beyond Constraints: Embedding Moral Cognition in AI](https://traversingtradition.com/2025/12/17/ai-foundations-moral-cognition-and-universal-principles/)**
+
+*Exploring moral reasoning frameworks in AI systems*
+
+</td>
+<td width="33%" align="center">
+
+### 💻 AI Development
+**[The Reality Behind AI Coding](https://www.academia.edu/129988573/The_Reality_Behind_AI_Coding_When_Efficiency_Promises_Meet_Debugging_Hell)**
+
+*When efficiency promises meet debugging challenges*
+
+</td>
+<td width="33%" align="center">
+
+### 🎓 STEM Education
+**[Bridging the Gap: STEM Education in Canada](https://www.academia.edu/129860536/Addressing_Systemic_Barriers_to_STEM_Education_for_Muslim_Youth_and_Underrepresented_Groups_in_Canada)**
+
+*Addressing barriers for underrepresented groups*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
 ## 🎯 Current Focus
 
 **Transitioning to AI/ML Engineering** • Building scalable ML infrastructure • Ethical AI systems
