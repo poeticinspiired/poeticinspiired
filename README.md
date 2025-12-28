@@ -1,4 +1,103 @@
-<!-- 
+<div align="center">
+
+<br/><br/>
+
+<!-- Opening Statement - Poetic -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8B5CF6&text=How%20do%20we%20build%20machines&height=60&fontSize=28&desc=that%20understand%20right%20from%20wrong?&descAlignY=75&descAlign=50"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=100&lines=No+special+talent%E2%80%94just+deep+curiosity+about+how+things+work;Building+tools+that+make+life+easier%2C+fairer%2C+more+meaningful" alt="Opening"/>
+
+<br/><br/>
+
+<!-- Core Identity - Visual Cards -->
+<table>
+<tr>
+<td width="45%">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=14&height=200&section=header&text=The%20Engineer&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Senior%20Software%20Engineer%20%40OpenText&descSize=16&descAlignY=60"/>
+
+<br/>
+
+```yaml
+Domain: Full-stack, ML, Accessibility
+Scale:  800K+ transactions/day
+Impact: 40% faster APIs, $1.5M saved
+```
+
+</td>
+<td width="10%">
+</td>
+<td width="45%">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=24&height=200&section=header&text=The%20Researcher&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=AI/ML%20%E2%80%A2%20in%20training&descSize=16&descAlignY=60"/>
+
+<br/>
+
+```yaml
+Focus: AI Alignment, Governance, Safety
+Goal:  Wisdom > Capability
+Quest: Where cognition meets ethics
+```
+
+</td>
+</tr>
+</table>
+
+<br/><br/>
+
+<!-- Philosophy Statement -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&fontColor=8B5CF6&text=while%20building:%20serve_real_lives()%20not%20just_metrics()&height=80&fontSize=20&fontAlign=50&fontAlignY=50"/>
+
+<br/><br/>
+
+<!-- Interests Constellation -->
+<table>
+<tr>
+<td colspan="7" align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=5000&color=A78BFA&center=true&vCenter=true&width=500&lines=Beyond+the+terminal..." alt="Subtitle"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="14%">
+<img src="https://img.icons8.com/3d-fluency/94/quill-pen.png" width="50"/><br/>
+<sup>Poetry</sup>
+</td>
+<td align="center" width="14%">
+<img src="https://img.icons8.com/3d-fluency/94/islamic.png" width="50"/><br/>
+<sup>Islam</sup>
+</td>
+<td align="center" width="14%">
+<img src="https://img.icons8.com/3d-fluency/94/chess.png" width="50"/><br/>
+<sup>Chess</sup>
+</td>
+<td align="center" width="14%">
+<img src="https://img.icons8.com/3d-fluency/94/math.png" width="50"/><br/>
+<sup>Math Proofs</sup>
+</td>
+<td align="center" width="14%">
+<img src="https://img.icons8.com/3d-fluency/94/globe.png" width="50"/><br/>
+<sup>Decolonial<br/>Knowledge</sup>
+</td>
+<td align="center" width="14%">
+<img src="https://img.icons8.com/3d-fluency/94/literature.png" width="50"/><br/>
+<sup>Classical<br/>Literature</sup>
+</td>
+<td align="center" width="14%">
+<img src="https://img.icons8.com/3d-fluency/94/books.png" width="50"/><br/>
+<sup>History</sup>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<sub>💜 *The future of AI needs people who care about wisdom as much as capability*</sub>
+
+<br/><br/>
+
+</div><!-- 
 ███████╗██╗     ███████╗ ██████╗  █████╗ ███╗   ██╗ ██████╗███████╗
 ██╔════╝██║     ██╔════╝██╔════╝ ██╔══██╗████╗  ██║██╔════╝██╔════╝
 █████╗  ██║     █████╗  ██║  ███╗███████║██╔██╗ ██║██║     █████╗  
