@@ -240,7 +240,7 @@ Academia.edu
 
 **AI / ML Research &nbsp;·&nbsp; AI Safety &nbsp;·&nbsp; Software Engineering &nbsp;·&nbsp; Data Science &nbsp;·&nbsp; Technical Policy**
 
-Remote or Hybrid &nbsp;·&nbsp; Waterloo, ON
+Remote or Hybrid &nbsp;·&nbsp; Waterloo, ON, Toronto, ON, Canada, USA
 
 <br/>
 
