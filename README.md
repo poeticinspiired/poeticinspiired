@@ -1,237 +1,150 @@
 <div align="center">
 
-<!-- Hero Section with Gradient Overlay -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,20,24,27&height=280&section=header&text=Abdurahman%20Seyidnoor&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Curious%20Mind%20•%20Aspiring%20Polymath&descSize=20&descAlignY=55&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,20,24,27&height=260&section=header&text=Abdurahman&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20Researcher%20%E2%80%A2%20STEM%20Equity&descSize=18&descAlignY=58&descAlign=50"/>
 
 <br/>
 
-<!-- Value Proposition - Clear & Immediate -->
-<table>
-<tr>
-<td align="center">
-
-### 🎯 **Senior Software Engineer** @ OpenText
-Building production systems that process **800K+ transactions daily**  
-Specialized in **ML Infrastructure**, **Scalable Architecture**, and **AI Safety Research**
-
-</td>
-</tr>
-</table>
-
-<!-- Key Metrics - Visual Impact Cards -->
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/⚡_PERFORMANCE-40%25_Faster_APIs-FF6B6B?style=for-the-badge&labelColor=2d3436&color=FF6B6B"/>
-<br/>
-<sub>Optimized critical path latency</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/💰_COST_SAVINGS-$1.5M_Annually-4ECDC4?style=for-the-badge&labelColor=2d3436&color=4ECDC4"/>
-<br/>
-<sub>Through infrastructure optimization</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/📊_SCALE-800K+_Daily-A78BFA?style=for-the-badge&labelColor=2d3436&color=A78BFA"/>
-<br/>
-<sub>Transaction processing capacity</sub>
-</td>
-</tr>
-</table>
+### Senior Software Engineer @ **OpenText** &nbsp;·&nbsp; MMath CS @ **University of Waterloo**
+### Waterloo, ON
 
 <br/>
 
-<!-- Primary CTA Buttons -->
-[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurahman24/)
-[![Portfolio](https://img.shields.io/badge/✉️_Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LeetCode](https://img.shields.io/badge/🏆_View_Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/poeticinspired/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurahman24/)
+[![Academia](https://img.shields.io/badge/Academia.edu-Research-41454A?style=for-the-badge&logo=academia&logoColor=white)](https://uwindsor.academia.edu/AbdurahmanAbdow)
+[![Substack](https://img.shields.io/badge/Substack-Writing-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@ibnseyidnoor)
+[![Traversing Tradition](https://img.shields.io/badge/Traversing_Tradition-Articles-4ECDC4?style=for-the-badge)](https://traversingtradition.com)
 
 </div>
 
 ---
 
-<br/>
+## 👋 Hi / Salaam
 
-## 🧭 Professional Identity
+I'm a **Senior Software Engineer at OpenText**, where I lead the development of scalable enterprise solutions with a focus on performance optimization, cloud migration, and AI-driven tools. I'm also on the journey toward becoming an AI/ML researcher — currently pursuing an **MMath in Computer Science at the University of Waterloo**.
+
+My work lives at the intersection of systems engineering and ethical AI. I'm drawn to the harder questions: *How do we build machines that understand right from wrong?*
+
+Outside of work, I co-founded **[Ummah Hub](https://github.com/poeticinspiired)**, where I teach coding to inner-city and racialized youth. I also enjoy reading and writing poetry, wrestling, playing chess, and working through math proofs.
+
+---
+
+## 🧭 What I'm About
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ **The Systems Engineer**
+### 🏗️ Systems Engineer
 
-**Building for Scale & Reliability**
-
-- 🔧 Full-stack development with production ML systems
-- ⚙️ Microservices architecture & cloud infrastructure
-- 🛡️ Accessibility-first engineering practices
-- 📈 Performance optimization at scale
-
-**Current Focus:** Transitioning to AI/ML Engineering roles where I can combine systems thinking with ethical AI development.
+- Scalable enterprise architecture at OpenText
+- ML infrastructure & cloud migration
+- Performance optimization & API design
+- AI-driven tooling in production
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 **The AI Researcher**
+### 🧠 AI/ML Researcher
 
-**Exploring Responsible Intelligence**
-
-- 🎯 AI Alignment & Safety Research
-- 🔍 Model Interpretability & Governance
-- 📖 Published work on moral cognition in AI
-- 🌍 Decolonial approaches to technology
-
-**Research Question:** *How do we build machines that understand not just patterns, but principles?*
+- Fairness in AI models
+- Statistical learning theory
+- Energy-based models
+- AI alignment, governance & safety
+- Cognitive science approaches to logical reasoning in AI
 
 </td>
 </tr>
 </table>
+
+```python
+# Engineering philosophy
+def build_technology(solution):
+    if not serves_real_lives(solution):
+        return rethink()
+    if not maintains_ethics(solution):
+        return rethink()
+    return ship_it(solution)
+```
+
+---
+
+## 🛠️ Languages & Tools
 
 <div align="center">
 
-```python
-# My Engineering Philosophy
-def build_technology():
-    while True:
-        if serves_only_metrics:
-            continue  # Optimization without purpose
-        elif serves_real_lives and maintains_ethics:
-            return ship_it()  # This is the way
-```
+### Languages of choice
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,rust,react&theme=dark" height="45"/>
+
+### ML & Data Science
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,mongo,postgres&theme=dark" height="45"/>
+
+### Infrastructure
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,kafka&theme=dark" height="45"/>
 
 </div>
 
 ---
 
-<br/>
-
-## 🛠️ Technical Expertise
-
-<div align="center">
-
-### **Core Stack**
-
-<img src="https://skillicons.dev/icons?i=python,typescript,java,rust,cpp&theme=dark" height="50"/>
-
-### **AI/ML & Data**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,mongodb,postgres&theme=dark" height="50"/>
-
-### **Frontend & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vue,svelte&theme=dark" height="50"/>
-
-### **Cloud & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,kafka&theme=dark" height="50"/>
-
-### **Backend & Tools**
-
-<img src="https://skillicons.dev/icons?i=spring,django,fastapi,redis,grafana&theme=dark" height="50"/>
-
-</div>
-
----
-
-<br/>
-
-## 🚀 Featured Work
+## 🚀 Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 **[SSH Attack Detection System](https://github.com/poeticinspiired/SSH-Traffic-Clustering-Analysis)**
+### 🔐 [SSH Traffic Clustering Analysis](https://github.com/poeticinspiired/SSH-Traffic-Clustering-Analysis)
 
-**Machine Learning for Cybersecurity**
+Processes PCAP/PCAPNG files to analyze SSH traffic, extracts behavioural features, and applies **K-Means clustering** to group sessions by traffic patterns — detecting what signature-based methods miss.
 
-Intelligent threat detection using unsupervised learning to identify malicious SSH patterns in real-time network traffic.
-
-**Tech:** Python • Scapy • scikit-learn • K-Means Clustering
-
-**Impact:**
-- ✅ Real-time anomaly detection
-- ✅ Pattern recognition beyond signature-based methods
-- ✅ Automated threat classification
-
-```python
-# Detect what humans can't see
-analyze(traffic) → predict_threats()
-```
-
-[View Project →](https://github.com/poeticinspiired/SSH-Traffic-Clustering-Analysis)
+`Python` `Scapy` `scikit-learn` `K-Means`
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 **[Infrastructure Alert Dashboard](https://github.com/poeticinspiired/infrastructure-alert-dashboard)**
+### 📊 [Infrastructure Alert Analyzer](https://github.com/poeticinspiired/infrastructure-alert-analyzer)
 
-**Predictive System Monitoring**
+Visualization tool that groups contextually related infrastructure alerts to reduce **Mean Time to Resolution (MTTR)**, with ML-powered deployment risk predictions.
 
-Graph-based correlation engine that reduces MTTR by predicting cascading failures before they happen.
-
-**Tech:** TypeScript • React • Kafka • Graph Algorithms
-
-**Impact:**
-- ✅ 60% reduction in false positives
-- ✅ Predictive incident detection
-- ✅ Root cause analysis automation
-
-```typescript
-// Connect the dots before chaos
-correlate(alerts) → prevent_outages()
-```
-
-[View Project →](https://github.com/poeticinspiired/infrastructure-alert-dashboard)
+`Python 80%` `JavaScript 20%`
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 **[LLM Training Data Pipeline](https://github.com/poeticinspiired/llm_data_pipeline)**
+### 🤖 [LLM Training Data Pipeline](https://github.com/poeticinspiired/llm_data_pipeline)
 
-**Enterprise ML Data Infrastructure**
+Scalable data pipeline for collecting, cleaning, and curating datasets for training small-scale language models — with a focus on **legal text**.
 
-Production-grade ETL system for LLM training data with automated quality scoring and intelligent deduplication.
-
-**Tech:** Python • MongoDB • AWS • Prefect • Apache Spark
-
-**Impact:**
-- ✅ Handles billions of documents
-- ✅ Reproducible dataset versioning
-- ✅ Quality-driven curation at scale
-
-```python
-# Quality data = Quality AI
-curate(raw_data) → ethical_dataset()
-```
-
-[View Project →](https://github.com/poeticinspiired/llm_data_pipeline)
+`Python 99.4%` `Rust` `JavaScript`
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ **[Real-Time ML Model Monitor]**
+### ⚖️ [Aequitas — Bias Audit Toolkit](https://pypi.org/project/aequitas/)
 
-**Production ML Observability**
+**Open-source contribution.** Bias auditing and Fair ML toolkit for data scientists, ML researchers, and policymakers. Transparent auditing of ML model predictors across demographic parity, equalised odds, and calibration in binary classification.
 
-*Currently in Development*
+`Python` `AI Fairness`
 
-Next-generation monitoring for ML systems in production, detecting drift, bias, and performance degradation in real-time.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Tech:** Go • Kubernetes • Prometheus • Custom Metrics
+### 🏫 [Ummah Hub Learning Platform](https://github.com/poeticinspiired)
 
-**Vision:**
-- 🎯 Automated model health scoring
-- 🎯 Bias detection & alerting
-- 🎯 Performance regression tracking
+Full-stack platform for the **Ummah Hub** coding initiative: curriculum management, student progress tracking, and live in-browser code sandboxes for inner-city and racialized youth.
 
-```go
-// Keep AI systems accountable
-func monitor() { ensure_reliability() }
-```
+`TypeScript` `Next.js` `PostgreSQL` `Prisma`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔤 Arabic Handwriting Recognition
+
+CNN-based OCR model achieving **90%+ accuracy** on Arabic script datasets using data augmentation and curriculum learning. Exported via ONNX for cross-platform inference.
+
+`PyTorch` `OpenCV` `ONNX`
 
 </td>
 </tr>
@@ -239,168 +152,106 @@ func monitor() { ensure_reliability() }
 
 ---
 
-<br/>
-
-## 📚 Publications & Thought Leadership
-
-<div align="center">
+## 📚 Publications & Writing
 
 <table>
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="50%" valign="top">
 
-<img src="https://img.icons8.com/fluency/96/brain.png" width="60"/>
-
-### **AI Ethics & Philosophy**
-
-**[Beyond Constraints: Embedding Moral Cognition in AI](https://traversingtradition.com/2025/12/17/ai-foundations-moral-cognition-and-universal-principles/)**
-
-Exploring how we can move beyond rule-based constraints to genuine moral reasoning in artificial intelligence.
-
-<img src="https://img.shields.io/badge/Read-Article-8B5CF6?style=flat-square"/>
+**[Beyond Constraints: Embedding Moral Cognition in Artificial Intelligence](https://drive.google.com/file/d/1ohu2yQ7UlfoehlbSN6AP4DW3aukgGN5s/view)**
+*Toward Ethically Aligned Systems Through Insights from Cognitive Science*
+Working paper · Oct 2025
 
 </td>
-<td width="33%" align="center" valign="top">
+<td width="50%" valign="top">
 
-<img src="https://img.icons8.com/fluency/96/code.png" width="60"/>
-
-### **Development Reality**
-
-**[The Reality Behind AI Coding](https://www.academia.edu/129988573/The_Reality_Behind_AI_Coding_When_Efficiency_Promises_Meet_Debugging_Hell)**
-
-A critical examination of AI-assisted development: where the promises meet the practical challenges.
-
-<img src="https://img.shields.io/badge/Read-Paper-FF3E96?style=flat-square"/>
+**[The Reality Behind AI Coding: When Efficiency Meets Limitation](https://drive.google.com/file/d/1m2nWrSxif1-gkHwTPt--oDgVbPHgBCqd/view)**
+*A critical analysis of AI-assisted coding tools and where they introduce subtle risks*
+Working paper · Jun 2025
 
 </td>
-<td width="33%" align="center" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://img.icons8.com/fluency/96/education.png" width="60"/>
+**[AI Failures: Misuse and the Implementation Gap](https://traversingtradition.com/2025/12/31/ai-failures-misuse-and-the-implementation-gap/)**
+Traversing Tradition · Dec 2025
 
-### **Social Impact**
+</td>
+<td width="50%" valign="top">
 
-**[Bridging STEM Education Gaps](https://www.academia.edu/129860536/Addressing_Systemic_Barriers_to_STEM_Education_for_Muslim_Youth_and_Underrepresented_Groups_in_Canada)**
+**[AI Foundations: Moral Cognition and Universal Principles](https://traversingtradition.com/2025/12/17/ai-foundations-moral-cognition-and-universal-principles/)**
+Traversing Tradition · Dec 2025
 
-Addressing systemic barriers for underrepresented groups in Canadian STEM education.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/Read-Research-4ECDC4?style=flat-square"/>
+**[Addressing Systemic Barriers to STEM Education for Muslim Youth and Underrepresented Groups in Canada](https://www.academia.edu/129860536/)**
+Academia.edu
+
+</td>
+<td width="50%" valign="top">
+
+**[The Reality Behind AI Coding — When Efficiency Promises Meet Debugging Hell](https://www.academia.edu/129988573/)**
+Academia.edu
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
-
-<br/>
 
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=poeticinspiired&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=a78bfa&icon_color=4ecdc4&text_color=c9d1d9&ring_color=ff6b6b"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poeticinspiired&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a78bfa&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=poeticinspiired&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=4ECDC4&icon_color=4ecdc4&text_color=c9d1d9&ring_color=4ECDC4"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poeticinspiired&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=4ECDC4&text_color=c9d1d9"/>
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=poeticinspiired&theme=tokyonight&hide_border=true&background=1a1b27&ring=a78bfa&fire=ff6b6b&currStreakLabel=4ecdc4&dates=c9d1d9"/>
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=poeticinspiired&theme=tokyonight&hide_border=true&background=1a1b27&ring=4ECDC4&fire=FF6B6B&currStreakLabel=4ecdc4&dates=c9d1d9"/>
 
 </div>
 
 ---
 
-<br/>
+## 🔍 Research Interests
 
-## 🎯 What I'm Working On
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-**🚀 Transitioning to AI/ML**
-
-Seeking roles where I can build ethical, production-grade AI systems at scale
-
-</td>
-<td align="center" width="25%">
-
-**📖 Research & Writing**
-
-Publishing on AI safety, alignment, and responsible development practices
-
-</td>
-<td align="center" width="25%">
-
-**🛠️ Open Source**
-
-Contributing to ML observability and interpretability tools
-
-</td>
-<td align="center" width="25%">
-
-**🎓 Mentorship**
-
-Helping underrepresented groups break into tech and AI
-
-</td>
-</tr>
-</table>
-
-</div>
+`Fairness of AI Models` &nbsp; `Statistical Learning Theory` &nbsp; `Energy-Based Models` &nbsp; `Cognitive Science & Logic in AI` &nbsp; `AI Alignment & Safety` &nbsp; `AI Governance` &nbsp; `Software Engineering` &nbsp; `Civic Tech` &nbsp; `STEM Equity`
 
 ---
-
-<br/>
 
 ## 🌟 Beyond the Code
 
-<div align="center">
-
 *I believe the future of AI needs people who care about wisdom as much as capability.*
 
-<table>
-<tr>
-<td align="center">📖 Classical Literature</td>
-<td align="center">♟️ Chess Strategy</td>
-<td align="center">📐 Mathematical Proofs</td>
-<td align="center">🕌 Islamic Philosophy</td>
-</tr>
-<tr>
-<td align="center">📜 Poetry & Writing</td>
-<td align="center">🌍 Decolonial Knowledge</td>
-<td align="center">📚 History & Ethics</td>
-<td align="center">🎨 Design Thinking</td>
-</tr>
-</table>
-
-</div>
+| 📖 Classical Literature | ♟️ Chess | 📐 Math Proofs | 🕌 Islamic Philosophy |
+|:---:|:---:|:---:|:---:|
+| 📜 Poetry & Writing | 🌍 Decolonial Knowledge | 📚 History & Ethics | 🤼 Wrestling |
 
 ---
-
-<br/>
 
 <div align="center">
 
-## 💼 Let's Build Something Meaningful
+## 💼 Open to Opportunities
 
-**Open to AI/ML Engineering opportunities | Remote or Hybrid**
+**AI / ML Research &nbsp;·&nbsp; AI Safety &nbsp;·&nbsp; Software Engineering &nbsp;·&nbsp; Data Science &nbsp;·&nbsp; Technical Policy**
+
+Remote or Hybrid &nbsp;·&nbsp; Waterloo, ON
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurahman24/)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-8B5CF6?style=for-the-badge&logo=safari&logoColor=white)](https://your-portfolio.com)
+[![Academia](https://img.shields.io/badge/Academia.edu-Read_Research-41454A?style=for-the-badge)](https://uwindsor.academia.edu/AbdurahmanAbdow)
+[![Substack](https://img.shields.io/badge/Substack-Read_Writing-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@ibnseyidnoor)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/swahilisomnomad)
 
 <br/>
 
----
-
-<sub>*"Building bridges between code and consciousness"*</sub>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=poeticinspiired&label=Profile%20Views&color=8B5CF6&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=poeticinspiired&label=Profile%20Views&color=4ECDC4&style=flat-square)
 
 <br/>
 
